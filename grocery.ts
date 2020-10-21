@@ -1,4 +1,4 @@
-// definition of a class with the obvious name Grocery
+// Definition of a class with the obvious name Grocery
 class Grocery {
 	// The class should have some basic attributes such as name, quantity, etc
 	name: string;
